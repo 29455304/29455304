@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Linux
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) and
+FreeBSD Guy
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
+
 <!--
 **29455304/29455304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
